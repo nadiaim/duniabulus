@@ -1,0 +1,28 @@
+.intro{
+  color: black;
+  text-align: center;
+  font-style: normal;
+  font-family: arial;
+  font-size: 20px;
+}
+
+.text-wrap p{
+  font-family: arial;
+  font-size: 13px;
+  margin-bottom: 0.15rem;
+}
+
+.text{
+  margin: 2rem;
+}
+
+.text p{
+  text-align: center;
+  font-size: 15px;
+  font-style: normal;
+  margin-bottom: 0.25rem;
+}
+
+.social{
+  margin: 1rem;
+}

@@ -1,0 +1,21 @@
+.first{
+  color: black;
+  text-align: center;
+  font-style: normal;
+  font-family: arial;
+  font-size: 20px;
+}
+
+.display-4{
+  font-size: 100px;
+  font-style: oblique;
+  text-align: center;
+}
+
+.rounded{
+  width: 500px;
+}
+
+.btn{
+  color: blue;
+}
